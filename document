@@ -1,0 +1,8 @@
+watch  for bem model in css
+
+:root{
+    --color-black: #0000
+}
+ Now this can be used by any other css classes as
+
+ color: var(--color-black)
