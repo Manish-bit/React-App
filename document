@@ -6,3 +6,12 @@ watch  for bem model in css
  Now this can be used by any other css classes as
 
  color: var(--color-black)
+
+ while applying media query
+ @media screen and (max-width){
+    {
+        
+    }
+ }
+
+ inset property in css
