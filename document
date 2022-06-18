@@ -13,5 +13,11 @@ watch  for bem model in css
         
     }
  }
-
  inset property in css
+
+
+ problem from project before
+
+ onChange={(e) => setInputValue(e.target.value)}
+
+ remember this 

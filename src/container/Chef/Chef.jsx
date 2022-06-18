@@ -10,7 +10,7 @@ const Chef = () => (
     </div>
   <div className='app__wrapper_info'>
     <SubHeading title="Chef's Word"/>
-    <h1 className='headtext__cormorant'>What We Believe In</h1>
+    <h1 className='headtext__cormorant'>What we Believe In</h1>
     <div className='app__chef-content'>
     <div className='app__chef-content_quote'>
       <img src={images.quote} alt="quote"/>
@@ -20,7 +20,7 @@ const Chef = () => (
   </div>
   <div className='app__chef-sign'>
     <p>Kevin Luo</p>
-    <p className='p__opensans'>CHef & Founder</p>
+    <p className='p__opensans'>Chef & Founder</p>
     <img src={images.sign} alt="sign"/>
   </div>
 
